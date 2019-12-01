@@ -1,6 +1,3 @@
-# CSV-File created with merge-csv.com
-# -----------------------------------------------------------
-
 commodity|prediction_date|date|trend|yhat_lower|yhat_upper|trend_lower|trend_upper|additive_terms|additive_terms_lower|additive_terms_upper|yhat
 oil|9/9/2019|1/4/2010|65.12718344|69.19920276|78.78656392|65.12718344|65.12718344|8.821278153|8.821278153|8.821278153|73.94846159
 oil|9/9/2019|1/5/2010|65.15217172|69.71385315|78.86007598|65.15217172|65.15217172|8.906044233|8.906044233|8.906044233|74.05821595
